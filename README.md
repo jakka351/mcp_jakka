@@ -200,10 +200,12 @@ sends a frame every second and prints it as it loops back, with no bus required.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). The driver is original work; the bit-timing
-register constants are factual values from the Microchip MCP2515 datasheet.
+MIT — Copyright (c) 2026 **Tester Present Specialist Automotive Solutions**.
+See [LICENSE](LICENSE). The driver is original work; the bit-timing register
+constants are factual values from the Microchip MCP2515 datasheet.
 
 ## Credits
 
-Written by jakka351, with the register-level driver designed and reviewed
-during the FG Falcon TCM man-in-the-middle project.
+Created by **Tester Present Specialist Automotive Solutions** (jakka351). The
+register-level driver was designed and reviewed during the FG Falcon TCM
+man-in-the-middle project.
