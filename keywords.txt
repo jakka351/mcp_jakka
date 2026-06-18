@@ -1,0 +1,15 @@
+# mcp_jakka - syntax colouring map (fields separated by a single TAB)
+
+McpJakka	KEYWORD1
+McpCanFrame	KEYWORD1
+
+begin	KEYWORD2
+reinit	KEYWORD2
+available	KEYWORD2
+receive	KEYWORD2
+send	KEYWORD2
+errorFlags	KEYWORD2
+txErrorCount	KEYWORD2
+rxErrorCount	KEYWORD2
+busOff	KEYWORD2
+opMode	KEYWORD2
