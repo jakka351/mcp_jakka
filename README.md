@@ -2,6 +2,10 @@
 
 **A robust, dependency-free MCP2515 CAN driver for Arduino / ESP32.**
 
+
+### FUCK OFF LONGAN LABS YOU ARE NOT WELCOME HERE
+
+  
 A clean-room MCP2515 driver written because the ageing Seeed/Longan `mcp_can`
 libraries — the ones everyone copies — have real defects that bite hard on a
 busy or noisy CAN bus. `mcp_jakka` is small, self-contained (Arduino + SPI
